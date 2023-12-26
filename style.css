@@ -95,6 +95,9 @@ section .main .buttons button{
 section .main .buttons button:hover{
     border: 1px solid #ccc;
 }
+section .main .lang{
+    margin-top: 20px;
+}
 section .footer{
     position: absolute;
     bottom: 0;
